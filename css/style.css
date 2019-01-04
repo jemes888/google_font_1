@@ -1,0 +1,12 @@
+@font-face{
+	font-family: Sketch_3D;
+	src:url(../fonts/Sketch_3D.otf);
+}body{
+	margin: 0;
+	padding: 0;
+}
+p {
+	font-family:Sketch_3D ;
+	    font-size: 40px;
+    margin-left: 85px;
+}
